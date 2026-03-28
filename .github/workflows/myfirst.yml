@@ -6,4 +6,4 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - name: Echo a string
-        run: echo "Hello! welcome to agentic DevSecops"
+         run: echo "Hello! welcome to agentic DevSecops"
